@@ -1,4 +1,4 @@
-🌟Nida's E-Commerce Furniture Project
+🌟Zahida's E-Commerce Furniture Project
 
 This project is a modern and responsive e-commerce web application developed to provide a seamless online shopping experience. It showcases advanced UI/UX design principles with an intuitive and visually appealing interface, making furniture shopping effortless and enjoyable.
 
